@@ -10,7 +10,7 @@ scalable backend applications and solving real-world problems.
 - **Languages:** Java, Python, SQL
 - **Backend:** Spring Boot, JSP, Servlets
 - **Database:** MySQL
-- **Cloud:** AWS, Oracle Cloud
+- **Cloud:** AWS
 - **DevOps:** Docker
 - **Tools:** Git, GitHub, Postman
 
