@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shubham Anand 👋
 
-<!--
-**CodeWizardry27/CodeWizardry27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Undergraduate | Java & Backend Developer
 
-Here are some ideas to get you started:
+I am a Computer Science undergraduate passionate about building
+scalable backend applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Python, SQL
+- **Backend:** Spring Boot, JSP, Servlets
+- **Database:** MySQL
+- **Cloud:** AWS, Oracle Cloud
+- **DevOps:** Docker
+- **Tools:** Git, GitHub, Postman
+
+### 🚀 Featured Projects
+
+- **AI-Incident-Commander** — Multi-Agent AI System for Autonomous Production Outage Resolution
+- **LinkSnip** — URL management application
+- **CloudVault** — Secure Cloud Storage Application
+- **Digi-Kavach** — Spam Identification System using Machine Learning
+
+### 💻 Coding Profiles
+
+- LeetCode
+- GeeksforGeeks
+- Codeforces
+
+### 📜 Certifications
+
+- Oracle Cloud Infrastructure Foundations Associate
+- AWS Academy Cloud Foundations
+- Postman API Fundamentals Student Expert
+
+---
+
+⭐ Check out my repositories below!
