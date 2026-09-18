@@ -8,7 +8,7 @@ scalable backend applications and solving real-world problems.
 ### 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL
-- **Backend:** Spring Boot, JSP, Servlets
+- **Backend:** Spring Boot
 - **Database:** MySQL
 - **Cloud:** AWS
 - **DevOps:** Docker
